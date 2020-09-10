@@ -14,7 +14,7 @@ Meu nome é Fábio de Oliveira Sales, e sou graduado em Sistemas de Informação
 ---
 
 ### Onde me encontratar:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 
 
